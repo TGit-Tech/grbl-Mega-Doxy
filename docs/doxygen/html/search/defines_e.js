@@ -1,0 +1,23 @@
+var searchData=
+[
+  ['ramp_5faccel',['RAMP_ACCEL',['../stepper_8c.html#a6820c3a92e6dd85f124057a6735f9d18',1,'stepper.c']]],
+  ['ramp_5fcruise',['RAMP_CRUISE',['../stepper_8c.html#a549a0d8e4c264d8705fbb743d7a2efd5',1,'stepper.c']]],
+  ['ramp_5fdecel',['RAMP_DECEL',['../stepper_8c.html#a50e223c11e7e55921091b182c2373cb9',1,'stepper.c']]],
+  ['ramp_5fdecel_5foverride',['RAMP_DECEL_OVERRIDE',['../stepper_8c.html#a45754c39031099c6115b0c744c31ecfe',1,'stepper.c']]],
+  ['rapid_5foverride_5flow',['RAPID_OVERRIDE_LOW',['../config_8h.html#a703b591de8bb751c630bb719655e1b14',1,'config.h']]],
+  ['rapid_5foverride_5fmedium',['RAPID_OVERRIDE_MEDIUM',['../config_8h.html#ab6bd835372dd7e7c33fbdcc1e118e151',1,'config.h']]],
+  ['report_5ffield_5fbuffer_5fstate',['REPORT_FIELD_BUFFER_STATE',['../config_8h.html#a95689c61d307042f3bbaa1d070f73a78',1,'config.h']]],
+  ['report_5ffield_5fcurrent_5ffeed_5fspeed',['REPORT_FIELD_CURRENT_FEED_SPEED',['../config_8h.html#a94ca561e4f0c1cd83b157a16555ac263',1,'config.h']]],
+  ['report_5ffield_5fline_5fnumbers',['REPORT_FIELD_LINE_NUMBERS',['../config_8h.html#a492e40c6fdfb37c708370cb28328f2bd',1,'config.h']]],
+  ['report_5ffield_5foverrides',['REPORT_FIELD_OVERRIDES',['../config_8h.html#a0e8e1742a4cdfc392ecffaf95a2cb3bd',1,'config.h']]],
+  ['report_5ffield_5fpin_5fstate',['REPORT_FIELD_PIN_STATE',['../config_8h.html#ad0471ea05be0e0931f82e071c9253790',1,'config.h']]],
+  ['report_5ffield_5fwork_5fcoord_5foffset',['REPORT_FIELD_WORK_COORD_OFFSET',['../config_8h.html#aa4dc7d1e514a1998c608cb9123686258',1,'config.h']]],
+  ['report_5fovr_5frefresh_5fbusy_5fcount',['REPORT_OVR_REFRESH_BUSY_COUNT',['../config_8h.html#a961cb555942bb4cb9a6ada1bbb2b8962',1,'config.h']]],
+  ['report_5fovr_5frefresh_5fidle_5fcount',['REPORT_OVR_REFRESH_IDLE_COUNT',['../config_8h.html#ae65d172b2553ee8e60f04cd821799376',1,'config.h']]],
+  ['report_5fwco_5frefresh_5fbusy_5fcount',['REPORT_WCO_REFRESH_BUSY_COUNT',['../config_8h.html#a9a61a00e27bf9b7ee71ef5588db561bf',1,'config.h']]],
+  ['report_5fwco_5frefresh_5fidle_5fcount',['REPORT_WCO_REFRESH_IDLE_COUNT',['../config_8h.html#a273cab8ab349f39123bb06a3a35c3691',1,'config.h']]],
+  ['req_5fmm_5fincrement_5fscalar',['REQ_MM_INCREMENT_SCALAR',['../stepper_8c.html#a076b2bcd67b0003d3f07d2b0ebfbba06',1,'stepper.c']]],
+  ['restore_5foverrides_5fafter_5fprogram_5fend',['RESTORE_OVERRIDES_AFTER_PROGRAM_END',['../config_8h.html#ad8acdc703defa6c3ef56715971ac01a9',1,'config.h']]],
+  ['rx_5fbuffer_5fsize',['RX_BUFFER_SIZE',['../serial_8h.html#a739a2a1a0047c98ac1b18ecd25dac092',1,'serial.h']]],
+  ['rx_5fring_5fbuffer',['RX_RING_BUFFER',['../serial_8c.html#a5eb4a6261ce509594777ed2751b2ae92',1,'serial.c']]]
+];
